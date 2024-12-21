@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.abuhammad.alfatihah.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_navigation_home_to_keutamaanFragment"
+            app:destination="@id/keutamaanFragment" />
+        <action
+            android:id="@+id/action_navigation_home_to_caraFragment"
+            app:destination="@id/caraFragment" />
+        <action
+            android:id="@+id/action_navigation_home_to_fikihFragment"
+            app:destination="@id/fikihFragment" />
+        <action
+            android:id="@+id/action_navigation_home_to_jenisFragment"
+            app:destination="@id/jenisFragment" />
+        <action
+            android:id="@+id/action_navigation_home_to_lahnFragment"
+            app:destination="@id/lahnFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_quran"
+        android:name="com.abuhammad.alfatihah.ui.quran.QuranFragment"
+        android:label="@string/title_quran"
+        tools:layout="@layout/fragment_quran" >
+        <action
+            android:id="@+id/action_navigation_quran_to_detailQuranFragment"
+            app:destination="@id/detailQuranFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_setting"
+        android:name="com.abuhammad.alfatihah.ui.setting.SettingFragment"
+        android:label="@string/title_setting"
+        tools:layout="@layout/fragment_setting" />
+    <fragment
+        android:id="@+id/detailQuranFragment"
+        android:name="com.abuhammad.alfatihah.ui.detail.DetailQuranFragment"
+        android:label="fragment_detail_quran"
+        tools:layout="@layout/fragment_detail_quran" >
+        <argument
+            android:name="EXTRA_NAME_SURAH"
+            app:argType="string" />
+        <argument
+            android:name="EXTRA_ID_SURAH"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/keutamaanFragment"
+        android:name="com.abuhammad.alfatihah.ui.home.detailhome.KeutamaanFragment"
+        android:label="fragment_keutamaan"
+        tools:layout="@layout/fragment_keutamaan" >
+        <argument
+            android:name="tittle_home_keutamaan"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_keutamaanFragment_to_detailContentFragment"
+            app:destination="@id/detailContentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/caraFragment"
+        android:name="com.abuhammad.alfatihah.ui.home.detailhome.CaraFragment"
+        android:label="fragment_cara"
+        tools:layout="@layout/fragment_cara" >
+        <argument
+            android:name="tittle_home_cara"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_caraFragment_to_detailContentFragment"
+            app:destination="@id/detailContentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fikihFragment"
+        android:name="com.abuhammad.alfatihah.ui.home.detailhome.FikihFragment"
+        android:label="fragment_fikih"
+        tools:layout="@layout/fragment_fikih" >
+        <argument
+            android:name="tittle_home_fikih"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_fikihFragment_to_detailContentFragment"
+            app:destination="@id/detailContentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/jenisFragment"
+        android:name="com.abuhammad.alfatihah.ui.home.detailhome.JenisFragment"
+        android:label="fragment_jenis"
+        tools:layout="@layout/fragment_jenis" >
+        <argument
+            android:name="tittle_home_jenis"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_jenisFragment_to_detailContentFragment"
+            app:destination="@id/detailContentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/lahnFragment"
+        android:name="com.abuhammad.alfatihah.ui.home.detailhome.LahnFragment"
+        android:label="fragment_lahn"
+        tools:layout="@layout/fragment_lahn" >
+        <argument
+            android:name="tittle_home_lahn"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_lahnFragment_to_detailContentFragment"
+            app:destination="@id/detailContentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailContentFragment"
+        android:name="com.abuhammad.alfatihah.ui.home.detailhome.DetailContentFragment"
+        android:label="DetailContentFragment">
+        <argument
+            android:name="contentId"
+            app:argType="integer" />
+        <argument
+            android:name="contentTitle"
+            app:argType="string" />
+        <argument
+            android:name="contentDesc"
+            app:argType="string" />
+    </fragment>
+</navigation>

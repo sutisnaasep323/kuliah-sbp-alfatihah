@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="80dp"
+        android:orientation="vertical">
+
+        <!-- Foto Profil -->
+        <ImageView
+            android:id="@+id/imageViewProfile"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Profile Picture"
+            android:scaleType="centerCrop"
+            android:src="@drawable/asep" />
+
+        <!-- Judul -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Tentang Aplikasi"
+            android:textColor="@color/text_title"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <!-- Deskripsi Aplikasi -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:lineSpacingExtra="4dp"
+            android:text="Aplikasi ini dibuat untuk memenuhi tugas mata kuliah Sistem Berbasis Pengetahuan. Aplikasi ini dirancang untuk membantu seseorang membaca alfatihah dengan benar ."
+            android:textColor="@color/text_title"
+            android:textSize="16sp" />
+
+        <!-- Identitas Biodata -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Tentang Saya"
+            android:textColor="@color/text_title"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:lineSpacingExtra="4dp"
+            android:text="Saya Mahasiswa Aktif di Universitas Indraprasta PGRI jurusan Teknik Informatika\n\nBidang yang saya dalami:"
+            android:textColor="@color/text_title"
+            android:textSize="16sp" />
+
+        <!-- List Bidang -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:lineSpacingExtra="4dp"
+            android:text="- Android Developer\n- Optician\n- Serviceman HP &amp; Laptop\n- UI/UX Designer\n- Thalibul Ilm"
+            android:textColor="@color/text_title"
+            android:textSize="16sp" />
+
+        <!-- Kutipan Inspiratif -->
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginBottom="8dp"-->
+<!--            android:text="Kutipan Inspiratif"-->
+<!--            android:textColor="@color/text_title"-->
+<!--            android:textSize="20sp"-->
+<!--            android:textStyle="bold" />-->
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginBottom="16dp"-->
+<!--            android:italic="true"-->
+<!--            android:lineSpacingExtra="4dp"-->
+<!--            android:text="\'Belajar ilmu dunia itu harus, tetapi jangan lupa kita juga harus mempersiapkan bekal untuk masa depan di akhirat, dan bermanfaat untuk manusia.\'"-->
+<!--            android:textColor="@color/text_title"-->
+<!--            android:textSize="16sp" />-->
+
+<!--        &lt;!&ndash; Ayat Al-Quran &ndash;&gt;-->
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginBottom="4dp"-->
+<!--            android:gravity="center"-->
+<!--            android:text="يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الْآخِرَةِ هُمْ غَافِلُونَ"-->
+<!--            android:textColor="@android:color/holo_blue_dark"-->
+<!--            android:textSize="18sp"-->
+<!--            android:textStyle="bold" />-->
+
+<!--        <TextView-->
+
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:lineSpacingExtra="4dp"-->
+<!--            android:text="Artinya: \'Mereka hanya mengetahui yang lahir (saja) dari kehidupan dunia; sedang mereka tentang (kehidupan) akhirat adalah lalai (QS. Ar-Rum : 7)'"-->
+<!--            android:textColor="@color/text_title"-->
+<!--            android:textSize="16sp" />-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mode Tampilan"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/text_title" />
+
+        <RadioGroup
+            android:id="@+id/radioGroupMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal">
+
+            <RadioButton
+                android:id="@+id/radioButtonLight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Light"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/radioButtonDark"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dark" />
+        </RadioGroup>
+    </LinearLayout>
+</ScrollView>

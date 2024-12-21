@@ -1,0 +1,651 @@
+<resources>
+    <string name="app_name">BelajarAlFatihah</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_quran">Al-Quran</string>
+    <string name="title_setting">About</string>
+    <string name="cd_nomor_surat">Nomor Surat</string>
+    <string name="number">1</string>
+    <string name="name_surah">Name Surah</string>
+    <string name="desc_ayat">Desc Ayat</string>
+    <string name="arabic">ARABIC</string>
+    <string name="oops">Oops! Afwan akses ditutup</string>
+    <string name="cek_connection">Silahkan hidupkan koneksi internet dan coba kembali</string>
+    <string name="refresh">Refresh</string>
+    <string name="ic_back">Tombol Kembali</string>
+    <string name="tafsir">Tafsir</string>
+    <string name="indo">Indonesia</string>
+    <string name="url_wa">https://api.whatsapp.com/send?phone=%1$s&amp;text=%2$s</string>
+
+    <!-- Content Keutamaan-->
+
+    <string name="content_menu_keutamaan_muqaddimah">Surat Al-Fâtihah merupakan surat yang mulia.Yang mempunyai urgensi yang agung dan keutamaan
+yang banyak. Sehingga kita wajib untuk terus belajar
+membacanya dengan benar, sebagaimana yang
+diturunkan.
+Dan agar terpacu bersemangat mempelajari surat
+Al-Fâtihah. Kami sampaikan diantara keutamaan surat
+Al-Fâtihah. yaitu:</string>
+
+    <string name="content_menu_keutamaan_title_rukun">Rukun Shalat</string>
+    <string name="content_menu_keutamaan_title_rukun_desc">Al-Fâtihah merupakan rukun shalat. Shalat tidak sah kecuali dengannya.Sebagaimana riwayat dari Ubadah bin Somit
+radhiallahu anhu sesungguhnya Rasulullah sallallahu alaihi wa sallam bersabda:
+“Tidak (sah) shalat bagi orang yang tidak membaca Fatihatul Kitab (Al-Fâtihah ).”
+( Hr Bukhari, 756 dan Muslim, 394 )
+\nAl-Imâm An-Nawawi rahimahullah mengatakan tentang hadits ini :
+        “Hadits ini (menunjukkan) kewajiban membaca AlFâtihah dan itu merupakan keharusan. Shalat tidak sah kecuali dengan membacanya. Lain halnya, jika orang tersebut tidak mampu. Ini adalah mazhab Malik, Syafii dan mayoritas para ulama dari kalangan para shahabat, tabiin dan (generasi) setelahnya." (Syarh Shohih Muslim 4/77)
+    </string>
+
+    <string name="content_menu_keutamaan_title_suratmulia">Surat paling mulia</string>
+    <string name="content_menu_keutamaan_title_suratmulia_desc">Sebagaimana dalam Hadits dari Abu Hurairah radhiallahu anhu sesungguhnya Rasulullah sallallahu alaihi wa sallam berkata kepada Ubay bin Ka’b:
+“Apakah engkau suka aku ajarkan kepadamu surat
+yang belum diturunkan di Taurat, Injil, Zabur tidak
+juga dalam Al-Furqan sepertinya?" Dia menjawab, “Ya. Wahai Rasulullah." Rasulullah sallallahu’alaihi
+wa sallam bersabda, “Bagaimana anda membaca
+dalam shalat?" Beliau menjawab, “Membaca Ummul Qur’an (Al-Fâtihah).”
+        \nMaka Rasulullah sallallahu’alaihi wa sallam bersabda, “Demi jiwaku yang ada ditangan-Nya. Tidak diturunkan dalam Taurat, Injil, Zabur tidak juga dalam Al-Furqan (surat) semisalnya.” ( Hr At-Tirmizi, no. 2875 Dishahihkan Al-Albany dalam Shahih Tirmizi)
+    </string>
+
+    <string name="content_menu_keutamaan_title_sabulmatsani">Assab’ul Matsani</string>
+    <string name="content_menu_keutamaan_title_sabulmatsani_desc">Dia adalah Assab’ul Matsani (tujuh ayat yang
+    diulang-ulang). Yang dimana kemuliaan ini difirmankan oleh Allah dalam Al-Qur’ân
+        “Dan sesungguhnya Kami telah berikan kepadamu tujuh ayat yang dibaca berulang-ulang dan Al Quran
+yang agung.” (QS. Al-hijr: 87). \n\nDan iriwayatkan pula oleh Al-Imâm Al-Bukhari, no. 4474 dari Abu Said bin Al-Mualla, "Sesungguhnya Rasulullah sallallahu’alaihi wa sallam bersabda kepadanya:
+“Aku akan ajarkan kepadamu suatu surat yang paling utama dalam Al-Qur’ân sebelum engkau keluar dari masjid." Kemudian beliau memegang tanganku. Ketika ingin keluar (masjid) saya katakan kepada beliau, “Tidakkah engkau mengatakan kepada saya akan mengajarkan kepadaku surat yang paling agung
+dalam Al-Qur’ân?" Beliau menjawab, “Al-Hamdulillahi rabbil’alamin (Al-Fâtihah ), dia adalah As-Sab’ul Matsani (tujuh ayat yang diulang-ulang) dan Al-Qur’ânul Azim yang diberikannya.”
+\nAl-Hafidz ibnu Hajar Al-Asqolany berkata, “Ada perbeda dalam maknanya, dikatakan ‘Al-Matsani’ karena diulang pada setiap rakaat. Ada yang mengatakan karena memuji kepada Allah Ta’ala, atau, karena dikhususkan untuk umat ini, dimana (tidak diturunkan) pada umat sebelumnya.’ ( Fathul Bari 8/121 )    </string>
+
+    <string name="content_menu_keutamaan_title_ummulquran">Ummul Qur\'an</string>
+    <string name="content_menu_keutamaan_title_ummulquran_desc">
+        Al-Fâtihah disebut sebagai ummul Qur\'an ( induknya Al-Qur’ân ). Dalam sebuah hadits dikatakan : Dari Abu Hurairah
+radhiyallahu ‘anhu, Rasulullah shallallahu ‘alaihi wasallam bersabda:
+        Alhamdulillahi Rabbil ‘alamin (yaitu Al-Fâtihah )
+adalah Ummul Qur’an dan Ummul Kitab serta As-Sab’ul Matsani (tujuh ayat yang diulang-ulang).” (HR.
+Abu Dawud, Sahih)
+\n\nAda beberapa hal yang menyebabkan Al-Fâtihah
+disebut sebagai Ummul Qur’an dan Ummul Kitab.
+Diantaranya adalah:
+Alasan Pertama: karena Al-Fâtihah mengandung
+dasar dari seluruh perincian seluruh ayat Alquran.
+Yaitu : masalah Aqidah, Ibadah, bahkan siroh. Karena
+ayat-ayat Al-Qur’ân menjelaskan tengang tauhid yang
+benar, ibadah yang lurus serta kisah para manusia
+pilihan Allah جل جلاله.
+        \nDemikian pula Al-Fâtihah . Yang
+disebutkan disana tentang aqidah. Penyembahan
+harus hanya untuk Allah جل جلاله Tuhan semesta alam. Kita
+beribadah padanya dan meminta pertolongan. Lantas
+surat ini ditutup dengan kisah orang yahudi yang
+disebut sebagai al-maghdhub kaum yang Allah جل جلاله
+murkai. Dan nashrani, yaitu kaum yang tersesat.
+Alasan kedua: Al-Fâtihah sebagai pembuka
+Alquran dalam urutan surah-surah di mushaf
+Alquran dan menjadi surah pertama kali yang dibaca
+di dalam salat. Imâm Al-Bukhari rahimahullah
+berkata,
+"(Al-Fâtihah ) dinamakan Ummul Kitab, karena penulisan Alquran dimulai dengannya dan bacaan Alquran dalam salat dimulai dengannya.” ( Fathul Bari 5/8 )
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Content Cara-->
+    <string name="content_menu_cara_title">Cara Membaca Al-Fatihah</string>
+    <string name="content_menu_cara_alfatihah_1">بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ</string>
+    <string name="content_menu_cara_alfatihah_1_desc">Cara membaca بِسْمِ ٱللَّهِ:
+\n-	huruf bi, dibaca jahr jelas. Lantas dimasukan ke huruf س. Dan jangan laukukan ikhtilash (tersamar) yaitu terlalu cepat membaca ba dan sin sehingga tidak jelas jahrnya.
+\n-	huruf sin yang sukun, berikan sifat rokhowahnya. Yaitu biarkan suara mengalir. Dan jangan langsung dihentikan. Sehingga seharusnya terdengar: Biss
+\n-	huruf mim huruf jahr, dan dia langsung ke lafadz jalalah. lafadz jalálah dibaca tarqíq. Sehingga dibaca lláh, bukan llôh
+        \n\nCara membaca: ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+\n-	huruf ro dibaca tafkhím. Yaitu meningginya suara kelangit-langit tanpa memonyongkan bibir, kemudian masukan ke huruf ح sukun
+\n-	huruf ح sukun pastikan keluar dari tenggorokan bagian tengah dan diberikan sifatnya yaitu diantaranya: rokhowah, yaitu suara masih mengalir saat disukunkan.
+\n-	huruf mim dibaca jahr dan dipanjangkan 2 harokat
+\n-	huruf nun kasroh dibaca jahr dan rahang diturunkan, dan bibir ditarik karena kasroh, kemudian dimasukan ke huruf ro tafkhim.
+\n-	huruf ح dari arrohiim berharokat kasroh, bukan sukun. Sehingga bukan dibaca : arrohhim. Tapi arrohím.
+\n-	lantas panjangkan dan saat bertemu mim yang disukunkan, suara mim masih mengalir, namun tentu tidak berlebihan
+</string>
+    <string name="content_menu_cara_alfatihah_2">ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ</string>
+    <string name="content_menu_cara_alfatihah_2_desc">Cara membaca: ٱلْحَمْدُ
+\n-	huruf hamzah أ dibaca jahr ( jelas ) A. tanpa imalah sehingga malah dibaca menjadi e atau di isti\'la-kan menjadi o.
+\n-	Lantas masukan ke huruf lam sukun ل, dan biarkan suara mengalir sedikit karena sifatnya bainiyyâh. Dan jangan diqolqolahkan menjadi ale
+\n-	Lantas siapkan mengeluarkan huruf dari tenggorokan (Al-Halq) bagian tengah, yaitu huruf ح. Kemudian masukanlah ke huruf mim sukun ح م dan biarkan suara mim mati mengalir sejenak. Karena sifatnya bainiyah. Dan jangan dipantulkan, menjadi alhame
+\n-	Kemudian langsung ujung lidah menempel di bagian dalam gigi seri bagian atas, dan ucapkanlah
+\n\nCara Membaca: لِلَّهِ
+\n-	Ucapkan lafadz jalalah. kalimat Allah جل جلاله ini dengan tipis / tarqíq, sehingga dibaca lillah. Dan panjangkan lam ke dua, sehingga menjadi lilláhi.
+\n\nCara Membaca: رَبِّ ٱلْعَـٰلَمِين
+\n-	Huruf ro dibaca Tafkhím yaitu mengangkat suara naik ke langit-langit mulut. Tanpa memonyongkan bibir.
+\n-	Kemudian dimasukan ke dalam huruf Ba bertasydid, Lantas turunkan rahang dan tarik bibir saat penyebutan kemudian ب karena ba berharokat kasroh dan masukanlah ia ke dalam huruf ح ل. huruf lam tidak memantul menjadi le
+\n-	Dan pastikan saat beralih ke huruf ع yang keluar di tengah tenghorokan. bukan bawah tenggorokan. Karena jika huruf keluar dari bawah tenggorokan, maka hurufnya bukanlah ع tapi malah أ. Lantas panjangkan huruf ع dua harokat.
+\n-	Dan kemudian selanjutnya membaca ٱلْعَـٰلَمِين
+</string>
+    <string name="content_menu_cara_alfatihah_3">ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ</string>
+    <string name="content_menu_cara_alfatihah_3_desc">Cara membaca: ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+\n-	huruf ro dibaca tafkhím. Yaitu meningginya suara kelangit-langit tanpa memonyongkan bibir, kemudian masukan ke huruf ح sukun
+\n-	huruf ح sukun pastikan keluar dari tenggorokan bagian tengah dan diberikan sifatnya yaitu diantaranya: rokhowah, yaitu suara masih mengalir saat disukunkan.
+\n-	huruf mim dibaca jahr dan dipanjangkan 2 harokat
+\n-	huruf nun kasroh dibaca jahr dan rahang diturunkan, dan bibir ditarik karena kasroh, kemudian dimasukan ke huruf ro tafkhim.
+\n-	huruf ح dari arrohiim berharokat kasroh, bukan sukun. Sehingga bukan dibaca : arrohhim. Tapi arrohím.
+\n-	lantas panjangkan dan saat bertemu mim yang disukunkan, suara mim masih mengalir, namun tentu tidak berlebihan</string>
+    <string name="content_menu_cara_alfatihah_4">مَـٰلِكِ يَوْمِ ٱلدِّينِ</string>
+    <string name="content_menu_cara_alfatihah_4_desc">Cara membaca : مَـٰلِكِ
+\n-	Dalam qiroah hafs, ma dibaca panjang 2 harokat. Buka mulut pertengahan saat membaca harokat fathah. Kemudian tarik kedua bibir menyamping dan 28 turunkan rahang saat membaca لِ dan كِ karena ia huruf kasroh.
+\n-	Kemudian karena ك adalah huruf hams, maka berikanlah haknya. Yaitu ada suara tersamar saat melafalkannya.
+\n\nCara membaca : يَوْمِ ٱلدِّين
+\n-	Yaum dibaca Layyin ( lembut ) dengan memonyongkan bibir disebabkan adanya huruf syafatain yaitu waw mati. Dibaca mengalir saja, dan tidak boleh ada hentakan atau penekanan, sehingga terbaca : Youm.
+\n-	kemudian tarik bibir dan turunkan rahang saat mengucapkan مِ lantas masukan ke dal ber-tasydid
+\n-	Setelah dimasukan ke dal, huruf dal dibaca kasroh kembali lantas dipanjangkan, dan berhenti di nun sukun dengan memberikan sifat bainiyah ( suara biarkan mengalir sedikit ) saat nun disukunkan.
+</string>
+    <string name="content_menu_cara_alfatihah_5">إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ</string>
+    <string name="content_menu_cara_alfatihah_5_desc">Cara membaca : إِيَّاكَ
+\n-	huruf hamzah terbaca jelas ( Jahr ) lantas masuk ke huruf ya Bertasydid.
+\n-	kemudian nabr-kan ( tinggikan suara ) saat tasydid agar tidak ada ikhtilash ( tersamarkan ) antara ya yang bertasydid dan tidak. Kemudian panjangkan huruf ya, karena mad thobi\'i
+\n-	huruf Kaf berikan sifat hams padanya, yaitu udara tersamarkan saat mengucapkan.
+\n\nCara membaca : نَعْبُدُ
+\n-	huruf na langsung masuk kehuruf ح ع. tidak melakukan isyba’ ( dipanjangkan lantas masuk ke ح sehingga ,ع menjadi : naaa’budu ) kemudian biarkan suara mengalir saat mensukunkan huruf ،ع
+\n-	kemudian monyongkan bibir untuk melafalkan huruf ب lantas د yang berdhommah. Dan pastikan huruf د tidak dibaca panjang.
+\n\nCara membaca : نَسْتَعِين
+\n-	huruf nun terdengar jelas dan langsung masuk ke huruf sin tanpa isyba’ ( naasta’in ), dan saat sin sukun biarkan suara mengalir karena sifat huruf sin adalah rokhowah ( lembut )
+\n-	huruf ta, berikan sifat hamsnya.
+\n-	ketika mengucapkan ع pastikan makhrojnya keluar dari tengah tenggorokan dan bukan dari tenggorokan 30 bagian dalam. Lantas panjangkan huruf ع ini, kemudian ketika nun sukun, berikan sifat tawasuuth / bainiyyâh.
+</string>
+    <string name="content_menu_cara_alfatihah_6">ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ</string>
+    <string name="content_menu_cara_alfatihah_6_desc">-	huruf hamzah dibaca kasroh lantas dimasukan ke huruf ه. Dan pastikan ha nya bertempat di tenggorokan bagian bawah, bukan tengah.
+\n-	Huruf Nun langsung dimasukan ke dalam huruf Shod. Karena ia berhukum asyamsiyyâh.
+\n-	Pastikan ketika melafalkan huruf shod, suara tidak keluar layaknya huruf س, demikian pula tidak berada dibawah lidah layaknya huruf ش. Tapi terkumpul diantara lidah dan langit-langit bagian atas ( ithbaq )
+\n-	Kasrohkan shod tanpa melepaskan sifat isti\'la (meninggi ) dan ithbaqnya. Jaga suara agar tetap berada di pertengahan lidah dan langit-langit. Dan jangan gelembungkan pipi. Karena huruf shod makhrojnya di ujung lidah ( Thorfu Allisan ), tidak ada hubungan dengan pipi.
+\n-	Huruf Ro diberikan tafkhimnya. Yaitu suara meninggi ke langit-langit. Dan jangan monyongkan Bibir, karena ر bukan huruf syafatain. Lantas panjangkan huruf ر nya karena mad thobi\'i
+\n-	Huruf ط berikan sifat ithbaq dan isti\'la nya. Dan jangan gelembungkan pipi demikian pula monyongkan bibir. Masukan ke lam, karena al qomariyyâh
+\n-	Huruf mim masuk ke huruf sin dan berikan sifat rokhowahnya.
+\n-	Huruf Ta berikan sifat hamsnya
+\n-	Huruf Qof dibaca isti\'la. Dengan makhroj dari pangkal lidah ( aqsho allisan ) dan berikan sifat infitah yaitu mulut terbuka dan telepasnya lidah dari langit-langit mulut.
+\n-	kemudian huruf qof dipanjangkan dan bertemu dengan mim yang disukunkan, berikalah sifat bainiyahnya.
+</string>
+    <string name="content_menu_cara_alfatihah_7">صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ</string>
+    <string name="content_menu_cara_alfatihah_7_desc">Cara membaca: صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِم
+\n-	Shiroto sudah dijelaskan sebelumnya
+\n-	huruf dza keluar dari tepian lidah bertemu ujung gigi seri bagian atas. Kemudian panjangkan karena mad thobi\'i lantas ucapka نَ
+\n-	Huruf hamzah yang keluar dari tenggorokan bagian bawah dimasukan ke huruf nun mati dan berikan sifat bainiyahnya. Dan jangan sampai dipantulkan. Langsung ke makhroj ع
+\n-	Huruf ع pastikan keluar dari tengah tenggorokan. Kemudian masukan ke huruf م dengan memberikan sifat bainiyah.
+\n-	Huruf ت berikan sifat hams nya
+\n-	selanjutnya عليهم . lafadzkan huruf ع dengan benar, dan huruf Lam bertemu dengan ya mati, maka sifatnya layyin atau lembut, tanpa ada penekanan dan digentak. Biarkan lembut mengalir
+\n-	Huruf Ha keluar dari tenggorokan bagian bawah, tanpa perlu di tinggikan intonasinya. Kemudian masukan pada mim mati, dan berikan bainiyah-nya. Baiknya jangan waqof disini. Lanjutkan ke kata berikutnya
+\n\nCara membaca: غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ
+\n-	Huruf gho itu meninggi isti\'la. Tetap meninggi walaupun selanjutnya didapati ya mati.
+\n-	Ghoy bersifat layyin, maka dia lembut mengalir tanpa digentak dan ditekan.
+\n-	huruf ر karena kasroh, maka dia tarqíq. Dan berikan hak kasrohnya, kemudian masuka ke alif lam
+\n-	Huruf mim dibaca jahr ( jelas ) kemudian dimasukan ke huruf ghoin, berikan sifat rokhowahnya, biarkan suara mengalir.
+\n-	Huruf ض makhrojnya adalah dua tepian lidah yang menyentuh geraham atau salah satunya. Berikan sifat ithbaq dan isti\'la nya. Dan jangan terlalu monyongkan bibir sampai hilang sufat ithbaqnya, dan jangan juga gelembungkan pipi. Lantas panjangkan 2 harokat mad thobi\'i.
+\n-	Huruf ب dibaca jahr ( jelas ) dan berharokat kasroh
+\n\nCara membaca: وَلَا ٱلضَّآلِّين
+\n-	Huruf و berharokat fathah dan dibaca jelas ( jahr )
+\n-	Huruf Lam langsung dimasukan ke huruf Dhod karena hukumnya asyamsiyyâh.
+\n-	Huruf dhod, diantara sifatnya adalah istitholah ( menekan suara dari dalam lidah ke langit mulut ) dan berikan sifat ithbaq &amp; isti\'la, dan jangan kumpulkan udara di pipi atau juga memongongkan bibir. Kemudian panjangkan 6 harokat. Karena ia berhukum mad lazim. Kemudian masukan ke huruf lam
+\n-	Dan saat masuk kehuruf lam yang bertasydid. Berikan Nabr ( naikan intonasi suara ). lantas panjangkan kemudian berikan sifat bainiyah pada nun yang disukunkan
+</string>
+    <string name="content_menu_cara_title_desc">Adapun cara membaca Al-Fâtihah , yaitu dengan memperhatikan hal berikut ini :</string>
+
+    <string name="content_menu_lahn_muqaddimah">Wajib bagi setiap muslim mengetahui lahn. Bukan untuk melakukannya, tapi justru untuk menghindarinya. Karena kehidupan seorang muslim tidak terlepas dari membaca Al-Qur’ân, maka jadikan bacaan bernilai lautan pahala dengan menjauhinya dari lahn. Lahn merupakan ilmu yang perlu kita ketahui. Abû muzâhim mûsâ bin \'ubaidillâh bin yahyâ alKhâqâniy (wafat tahun 325 H) mengatakan: “Maka awal dari ilmu Al-Qur\’ân adalah berupaya mengkokohkan hafalan seraya mengetahui Lahn yang keluar dari mulut ketika mengucapkannya.”
+\n\nMaka ketahuilah Lahn agar kamu tidak tergelincir dalam kesalahan membaca. Karena tidak ada udzur bagi seseorang tidak mengetahui Lahn. (al-Qoshidah Al-Khoqoniyah)
+</string>
+    <string name="content_menu_lahn_pengertian_title">Pengertian Lahn</string>
+    <string name="content_menu_lahn_pengertian_title_desc">Lahn dalam bahasa Arab artinya adalah: Kesalahan dan menyimpang dari kebenaran ( ghoyatul Murid fi ilmi attajwid 44 ) \n\nLahn dalam membaca al-Qur\`ân adalah kesalahan dan kekeliruan dalam membaca ayat-ayat al-Qur\`ân. Yaitu mengurangi atau berlebihan pada hak-hak huruf, sehingga terkadang tidak sampai merusak makna, dan terkadang bahkan sampai merusak makna. Lahn ini, baik mengubah makna ataupun tidak. keduanya merupakan kekeliruan yang mesti kita hindar dalam membaca Al-Qur\’ân. Agar semakin banyak pahala yang kita dapatkan saat membaca Al-Qur\’ân Al-Karim.</string>
+    <string name="content_menu_lahn_macam_title">Macam-Macam Lahn</string>
+    <string name="content_menu_lahn_macam_title_desc">Lahn dalam membaca al-Qur\`ân terbagi menjadi dua, yakni Lahn Jaly dan lahn Khofy. Al-Imâm Abu Amr Ad-Dany meriwayatkan dari Ibnu Mujahid : "al-Lahn dalam membaca al-Qur\`ân ada 2 yaitu jaliy dan Khofy. Lahn Jaly adalah lahn yang berkaitan (meninggalkan) i\'rab. Dan Khofy adalah lahn yang berkaitan dengan tidak memberikan hak-hak hurûf dan tidak mentajwîdkan lafazhnya" ( Attahdid Fil Itqon wattajwid hal 118 )</string>
+    <string name="content_menu_lahn_jaliy_title">Al-Lahn al-Jaliy</string>
+    <string name="content_menu_lahn_jaliy_title_desc">Al-Jaliy berarti terang atau jelas, yakni kesalahan yang terlihat dengan jelas baik dikalangan awam maupun para ahli tajwîd. Dan disampaikan oleh beliau, bahwa Lahn Jaly adalah lahn pada i\'rob, yaitu kesalahan dalam pelafalan huruf huruf dalam Al-Qur\’ân. Dan lahn ini terbagi menjadi beberapa kategori:
+\n1.Berkaitan dengan huruf. Yaitu :
+\n- Mengganti satu huruf dengan huruf yang lain, Misalnya : merubah huruf ص menjadi ش, merubah huruf ح menjadi هـ. Contoh :
+\n- ٱلْهَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ (segala kehancuran milik Allah tuhannya penyakit)
+\n- ٱلرَّهْمَـٰنِ  (dua batu bara)
+\n- إِيَّاكَ نَأْبُدُ (Hanya engkaulah yang kami basmi)
+\n- Menambah atau mengurangi huruf, seperti : memanjangkan huruf yang pendek atau memendekan huruf yang panjang. seperti: مَـٰلِكِيْ يَوْمِ ٱلدِّينِ (kepunyaanku lah hari kiamat )
+\n- Menghilangkan tasydid. Sepertiإِيَّاكَ  dibaca إِيَاكَ
+
+\n\n إِيَاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+\n(Kepada sinar matahari kami menyembah dan meminta petolongan)
+
+\n\n2. Berkaitan dengan harakat
+\n- Menambah harakat; misalnya mengubah harakat, fathah menjadi kasrah, kasrah menjadi dhammah, atau selainnya.
+</string>
+    <string name="content_menu_lahn_hukum_jaliy_title">Hukum Lahn Jaly</string>
+    <string name="content_menu_lahn_hukum_jaliy_title_desc">Hukum Lahn Jaly haram secara mutlak menurut kesepakatan para ulama. karena mengubah huruf dan harokat yang menghasilakn perubahan lafazh dan mengubah isi kandungan Al-Qur\’ân. Kecuali bagi yang memang lisannya tidak sempurna, atau sudah berusia dan sulit melafalkannya, atau seorang yang masih merangkak belajar.</string>
+    <string name="content_menu_lahn_khofy_title">Lahn Khofiy</string>
+    <string name="content_menu_lahn_khofy_title_desc">Adapun lahn Khofy adalah kesalahan dalam memberikan hak-hak hurufnya ( sebatas makhroj , sifat dan juga tajwid ). Dan kesalahan ini tidak sampai mengubah makna kandungan al-Qur`ân. Lahn Al-Khofy adalah kesalahan yang tersembunyi, yaitu kesalahan ketika membaca al-Qur`ân yang tidak diketahui secara umum, kecuali oleh orang yang pernah mempelajari ilmu tajwîd. Bahkan sebagian di antaranya hanya diketahui oleh para ulama yang memiliki pengetahuan mengenai kesempurnaan membaca al-Qur\`ân. Contohnya :
+\n➢ Menjadikan huruf yang bukan qolqolah, menjadi qolqolah ( memantul ) seperti kata Al dibaca Alle.
+\n➢ Mengurangi atau menambah kadar mad, yang seharusnya 4 harokat menjadi 3, misalnya
+\n➢ Menipiskan huruf-huruf tafkhîm (tebal),
+\n➢ Tidak memantulkan huruf-huruf Qalqalah,
+\n➢ tidak menerapkan sifat-sifat huruf dalam membaca.
+</string>
+    <string name="content_menu_lahn_bentuk_khofy_title">Bentuk-bentuk Lahn Khofy</string>
+    <string name="content_menu_lahn_bentuk_khofy_title_desc">1. Lahn Harakat : kekeliruan dan ketidaksempurnaan dalam mengucapkan harakat, seperti menambah dan mengurangi kadar harakat. Contohnya seperti : tidak sempurnanya pengucapan kasrah, seperti kurang menurunkan rahang, dhammah kurang mengumpulkan / memonyongkan bibir), membaca sukun dengan memantulkanpadahal bukan huruf qalqalah, berlebihan pada huruf sukûn karena waqaf atau yang lainnya.
+\n2.Lahn Huruf : kekeliruan dan ketidak sempurnaan dalam mengucapkan huruf, seperti menambah (ziyâdah) dan mengurangi (nuqshân) huruf. kurang sempurna mengucapkan huruf sebagaimana makhrajnya beserta shifat yang dimilikinya, tidak mahir dalam tempo membaca, menebalkan huruf tipis atau sebaliknya, memongongkan bibir pada huruf yang tidak berhubungan dengan bibir, dan yang lainnya.
+\n3.Lahn Kalimah : mengabaikan hukum-hukum tajwîd, seperti : idghom, ikhfa, idghom mutajanisain, atau yang lainnya.
+\n4. Lahn Kalam : tidak memahami cara berhenti dan memulai bacaan, membaca dan berhenti tidak sesuai 40 kaidah dan tidak mengontrol sesuai makna yang tepat.
+\n5. Lahn Ada\’ : tidak mengatur suara harakat dengan baik, karena tidak mempersiapkan bibir dengan baik, sesuai ketentuan cara mengucapkan harakatnya, huruf yang tidak masuk kehidung, malah kehidung dan lain sebagainya
+</string>
+
+    <string name="content_menu_jenis_title">Lahn Jaly dan Khofy dalam membaca Al-Fâtihah</string>
+    <string name="content_menu_audzu_title">أَعُوذُ</string>
+    <string name="content_menu_audzu_desc">Beberapa kekeliruan dalam membaca أَعُوذُ
+\nLahn Jaly :
+\n1. Memanjangkan hamzah : آعُوذُ (apakah Aku berlindung)
+\n2. Mengganti \‘ain dengan hamzah: أَأُوذُ
+\n3. Mengganti dza dengan ja : أَعُوجُ )Aku bersandar )
+\n4. Menggantikan dza dengan da : أَعُودُ  )aku kembali)
+\n\nLahn Khofy :
+\n1. Menebalkan hamzah : o\’uudzu
+\n2. Membaca tashil hamzah, yaitu أ nya dibaca separuh
+\n3. Membaca imâlah pada hamzah : e\’uudzu
+\n4. Mengucapkan \‘ain seperti “ng” orang jawa : anguudzu
+\n5. Kurang sempurna ketika mengucapkan \‘ain dari tengah tenggorokan dan Malah melewati rongga hidung
+\n6. Tidak mendhammahkan \‘ain dengan benar, sehingga menjadi : a\’oodzu
+\n7. Memanjangkan \‘ain lebih dari dua harakat : a\’uuudzu
+</string>
+    <string name="content_menu_billahi_title">بِاللَّهِ</string>
+    <string name="content_menu_billahi_desc">Beberapa kekeliruan dalam pengucapan : بِاللَّهِ
+\nLahn Jaly :
+\n1. Menghilangkan tasydîd lam : bilaahi
+\n2. Mengganti هـ dengan ح: billaahi
+\n3. Memanjangkan Ha\’: Billaahii
+\n4. Menghilangkan Ha\’ : Billaa
+\n\nLahn Khofy :
+\n1. Membaca ba\’ dengan imâlah : bellahi
+\n2. Menebalkan lam: billoohi
+\n3. Terlalu membuka mulut pada lam: billaahi
+\n4. Membaca lam lebih dari 2 harokat : bilaaaahi
+\n5. Membaca Ha\’ dengan menggentak, sehingga keluar dari dada, bukan tenggorokan.
+</string>
+    <string name="content_menu_minasy_title">مِنَ الشَّيْطَانِ</string>
+    <string name="content_menu_minasy_desc">Beberapa kekeliruan dalam pengucapan مِنَ الشَّيْطَانِ
+\nLahn jaly :
+\n1. Memanjangkan nun : minaasyaithooni.
+\n2. Meninggalkan tasydid syin : Mina syaithoon
+\n3. Mengganti syin dengan sin : minassaithoon
+\n4. Mengganti tho\’ dengan ta\’ : minasysyaitaan
+\n5. Memanjangkan nun: minasysyaithoonii .
+\n6. Mengganti nun kasrah dengan dhammah : minasysyaithoonu
+\n\nLahn khofy :
+\n1. Membaca mim dengan imâlah : mena
+\n2. Menebalkan nun : mino
+\n3. Mengganti ya\’ dengan imâlah : minasysyaethoon
+\n4. Membaca tho\’ lebih dari 2 harakat : minasysyaithoooon
+\n5. Membaca nun dengan imâlah : minasysyaithoone
+ِ</string>
+    <string name="content_menu_rajim_title">الرَّجِيمِ</string>
+    <string name="content_menu_rajim_desc">berapa kekeliruan dalam pengucapan الرَّجِيمِ
+\nLahn Jaly :
+\n1. Memanjangkan huruf Ro, sehingga menjadi : الرَّاجِيمِ
+\n2. Membaca ro dengan menggerakan bibir bawah seolah jadi : arrowojiim, الرَّوْجِيمِ
+\n3. Mengganti jim dengan gim : arrogiim / الرَّغِيمِ
+\n4. Mengganti Mim dengan Nuh, sehingga menjadi : الرَّجِينِ
+\n5. Tidak memanjangkan mim, sehingga menjadi : الرَّجِمِ
+\n\nLahn Khofy
+\n1. Menipiskan ro\’ : arrajiim
+\n2. Tidak membaca ro\’ dengan sempurna : aurojim
+\n3. Membaca jim seperti orang jawa terlalu hams seperti huruf C : Arochim
+\n4. Membaca jim dengan imâlah : orrojeem
+\n5. Membaca jim lebih dari 6 harakat : arrojiiiiiiiim
+\n6. Mengucapkan qolqolah pada mim : arrojiime
+</string>
+
+    <string name="content_menu_bismi_title">بِسْمِ</string>
+    <string name="content_menu_bismi_desc">Beberapa kekeliruan dalam pengucapan بِسۡمِ
+\nLahn Jaly :
+\n1. Mengganti س  dengan ش/ث sehingga بِشۡمِ/ بِثۡمِ
+\n2. Menghilangkan huruf Sin, sehingga hanya dibaca : ismi
+\n\nLahn Khofy:
+\n1. Membaca ba\’ dengan imâlah: besmi
+\n2. Tidak memperjelas sin yang sukun dengan memberikan sifat rokhowwah &amp; shofir nya
+\n3. Mengqolqolahkan sin : bisemi
+\n4. Melakukan ikhtilas ( menyamarkan ) huruf ba dan sin dengan membacanya terlalu cepat.
+</string>
+    <string name="content_menu_allahi_title">ٱللَّهِ</string>
+    <string name="content_menu_allahi_desc">Beberapa kekeliruan dalam pengucapan ٱللَّهِ
+\nLahn Jaly :
+\n1. Tidak mentasdydidkan huruf lam. Sehingga menjadi : bismilah
+\n2. Merubah huruf ه menjadi ح
+\n\nLahn Khofy :
+\n1. Menebalkan lam: Bismilloohi
+\n2. Membaca lam dengan syiddah atau mensentakkannya
+\n3. Membaca madd pada huruf lam lebih dari 2 harakat, bismillaaaahi
+\n4. Mengeluarkan huruf Ha dari dada bukan pada tenggorokan. Karena menggentak.
+</string>
+    <string name="content_menu_arrahmani_title">ٱلرَّحْمَـٰنِ</string>
+    <string name="content_menu_arrahmani_desc">Beberapa kekeliruan dalam pengucapan ٱلرَّحْمَـٰنِ
+\nLahn Jaliy :
+\n1. Tidak membaca tasydid Ra : arohmani
+\n2. Mengganti ro dengan u : auohmaani
+\n3. Mengganti ح dengan خ : arrokhmaani
+\n4. Mengganti ح dengan Ha هـ
+\n5. Mendhammahkan nun : arrohmaanu
+\n\nLahn Khofy :
+\n1. Mengucapkan ro dengan a : arrahmaani
+\n2. Menebalkan mim : arrohmooni
+\n3. Memanjangkan mim lebih dari 2 harakat : arrohmaaaaani
+\n4. Membaca imâlah pada nun : arrohmaane
+</string>
+    <string name="content_menu_rahimi_title">ٱلرَّحِيمِ</string>
+    <string name="content_menu_rahimi_desc">Beberapa kekeliruan dalam pengucapan ٱلرَّحِيمِ
+\nLahn Jaly :
+\n1. Tidak membaca tasydid pada huruf ر menjadi : ٱلرَحِيمِ
+\n2. Mengganti ل dengan u : aurohiim : أَوْرَحِيمِ
+\n3. Mengganti ح dengan kho خ : arrokhim ٱلرَّخِيمِ
+\n4. Mengganti ح dengan Ha هـ : arrohim ٱلرَّهِيمِ
+\n5. Menghilangkan mad, sehingga menjadi ٱلرَّحِمِ
+\n\nLahn Khofy :
+\n1. Mengucapkan ro dengan ra : arrahiim
+\n2. Membaca ya\’ madd dengan imâlah : arroheem
+\n3. Membaca ha lebih dari 6 harakat, arrohiiiiiiiim
+</string>
+    <string name="content_menu_alhamdu_title">ٱلْحَمْدُ</string>
+    <string name="content_menu_alhamdu_desc">Beberapa kekeliruan dalam pengucapan ٱلْحَمْدُ
+\nLahn Jaly :
+\n1. Menghilangkan alif atau lam : ahamdu, hamdu
+\n2. Memanjangkan alif : aalhamdu : آلْحَمْدُ (apakah segala puji ?)
+\n3. Mengganti ح dengan هـ, menjadi : ٱلْهَمْدُ (kerusakan)
+\n4. Mengganti ح dengan خ, menjadi : ٱلْخَمْدُ (diam)
+\n5. Memanjangkan dal : ٱلْحَمْدُوْ
+\n\nLahn Khofy :
+\n1. Menebalkan Hamzah : Olhamdu
+\n2. Membaca dengan imâlah : elhamdu
+\n3. Membaca lam dengan qolqolah : Alehamdu
+\n4. Membaca mim dengan qolqolah : Alhamedu
+\n5. Mengganti dhommah dengan o : Alhamdo
+</string>
+    <string name="content_menu_lillahi_title">لِلَّهِ</string>
+    <string name="content_menu_lillahi_desc">Beberapa kekeliruan dalam pengucapan لِلَّهِ
+\nLahn Jaliy :
+\n1.Tidak mentasydidkan lam. sehingga menjadi: lilahi
+\n2. Mengganti ه dengan ح sehingga menjadi: لِلَّحِ
+\n\nLahn khafy :
+\n1. Membaca lam dengan imâlah : lellaahi
+\n2. Memanjangkan lam lebih dari 2 harakat
+
+</string>
+    <string name="content_menu_rabi_title">رَبِّ</string>
+    <string name="content_menu_rabi_desc">Beberapa kekeliruan dalam pengucapan رَبِّ
+\nLahn Jaliy :
+\n1.Menghilangkan tasydid. Sehingga رَبِ
+\n\nLahn khafy :
+\n1. Membaca ro\' menjadi Ra dengan membuka mulut : Rabbi
+\n2. Tidak konsisten membaca getaran ro\' : Rrobbi
+\n3. Mengganti kasroh dengan dhommah : Robbu
+\n4. Membaca ba\' dengan imâlah: robbe
+</string>
+    <string name="content_menu_alamin_title">ٱلْعَـٰلَمِينَ</string>
+    <string name="content_menu_alamin_desc">Beberapa kekeliruan dalam pengucapan ٱلْعَـٰلَمِينَ
+\nLahn Jaliy :
+\n1. Mengganti ع dengan أ sehingga menjadi ٱلْأٰلَمِينَ (tuhan penyakit)
+\n2. Mengganti harokat fathah pada lam menjadi kasroh : ٱلْعَـٰلِمِينَ (orang-orang yang mengetahui)
+\n3. Membaca \'ain kurang dari 2 harakat : Robbil \'alamiin / ٱلْعَـلَمِينَ
+\n4. Mengganti nun dengan mim : ٱلْعَـٰلَمِيمَ
+\n\nLahn Khofy :
+\n1. Membaca lam dengan qolqolah : Robbile \'aalamiin
+\n2. Menebalkan \'Ain : Al \'oolamin
+\n3. Memanjangkan \'ain lebih dari 2 harakat : Robbil \'aaaalamiin
+\n4. Mengganti lam fathah dengan kasroh : Robbil \'aalimiin
+\n5. Membaca mim dengan imâlah : Robbil \'aalameen
+\n6. Membaca kasroh mim dengan kasroh dan imâlah : Robbil \'aalamiien
+\n7. Membaca nun dengan qolqolah : Robbil \'aalamiine
+</string>
+    <string name="content_menu_maliki_title">مَـٰلِكِ</string>
+    <string name="content_menu_maliki_desc">Beberapa kekeliruan dalam pengucapan مَـٰلِكِ
+\nLahn Jaly :
+\n1. Membaca lam dengan fathah : Maalaki
+\n2. Memanjangkan kaf : Maalikii
+\n\nLahn Khofy :
+\n1. Menebalkan mim : mooliki
+\n2. Memanjangkan mim lebih dari 2 harakat : Maaaliki
+\n3. Memendekkan mim : Maliki ( pada qoroah hafsh ini bagian dari lahn, beda dengan qiroah lain )
+</string>
+    <string name="content_menu_yaumi_title">يَوْمِ</string>
+    <string name="content_menu_yaumi_desc">Beberapa kekeliruan dalam pengucapan يَوْمِ
+\nLahn Jaly :
+\n1. Mengidghomkan Mim : yaummi / يَوْمِّ
+\n2. Mengganti waw dengan hamzah : yaumi / يَؤُمِ
+\n\nLahn Khofy :
+\n1. Membaca u dengan o : Yaomi
+\n2. Menebalkan ya\' : youmi
+</string>
+    <string name="content_menu_addin_title">ٱلدِّينِ</string>
+    <string name="content_menu_addin_desc">Beberapa kekeliruan dalam pengucapan ٱلدِّينِ
+\nLahn Jaly :
+\n1. Menghilangkan tasydid : Yaumidiin
+\n2. Mengganti nun dengan mim: Addiim / ٱلدِّيمِ
+\n3. Tidak sempurna mengucapkan د sehingga mengganti  د menjadi ت : sehingga membaca : ٱلتِّينِ
+\n\nLahn Khofy :
+\n1. Mengimâlahkan dal : Addeen
+\n2. Mengqolqolahkan nun: Addiine
+
+</string>
+    <string name="content_menu_iyyaka_title">إِيَّاكَ</string>
+    <string name="content_menu_iyyaka_desc">Beberapa kekeliruan dalam pengucapan إِيَّاكَ
+\nLahn Jaly :
+\n1. Menghilangkan tasydid : Iyaaka : إِيَاكَ (sinar matahari)
+\n2. Memendekkan ya\' : Iyyâka / إِيَّكَ
+\n3. Merubah huruf ka, dengan huruf lain, misalnya : إِيَّاهَا ( kepadanya perempuan )
+\n4. Memanjangkan huruf ك . Iyyâakaa / إِيَّاكَا
+\n\nLahn Khofy :
+\n1. Mengimâlahkan hamzah : Eyyaaka
+\n2. Menebalkan ya\' : oyyaka
+\n3. Memanjangkan ya\' lebih dari 2 harakat : Iyyâaaaka
+</string>
+    <string name="content_menu_nabudu_title">نَعْبُدُ</string>
+    <string name="content_menu_nabudu_desc">Beberapa kekeliruan dalam pengucapan نَعْبُدُ
+\nLahn Jaly :
+\n1. Menganti \'ain dengan hamzah : نَعْبُدُ (kami membasmi)
+\n2. Membaca ba\' dengan kasroh : Na\'bidu
+\n3. Memanjangkan huruf dal : Na\'buduu : نَعْبُدُوْ
+\n\nLahn Khofy :
+1. Mengqolqolahkan \'ain : na\'ebudu
+2. Membaca dhommah dengan o : Na\'bodo
+3. Tidak memberikan sifat bainiyyâh pada ع yang mati.
+
+</string>
+    <string name="content_menu_nastain_title">نَسْتَعِينُ</string>
+    <string name="content_menu_nastain_desc">Beberapa kekeliruan dalam pengucapan نَسْتَعِينُ
+\nLahn Jaly :
+\n1. Mengganti ع menjadi أ sehingga menjadi : نَسْتَئِينُ
+\n2. Memanjangkan nun : Naasta\'iin
+\n3. Mengganti س dengan ص/ ث/ش
+\n5. Mengganti nun dengan mim : Nasta\'iim/نَسْتَعِينُ
+\n\nLahn Khofy :
+\n1. Menebalkan nun : Nosta\'iin
+\n2. Menghilangkan desis pada sin dan tidak memberikan sifat bainiyyâh.
+\n3. Mengqolqolahkan sin : Naseta\'iin
+\n4. Mengucapkan \'ain seperti sebagian orang Jawa : Nastangiin
+\n5. Mengucapkan \'ain dengan imâlah : Nasta\'een
+\n6. Membaca \'ain lebih dari 6 harakat : Nasta\'iiiin
+\n7. Menggolqolahkan nun : Nasta\'iine (K)
+</string>
+    <string name="content_menu_ihdina_title">ٱهْدِنَا</string>
+    <string name="content_menu_ihdina_desc">Beberapa kekeliruan dalam pengucapan ٱهْدِنَا
+\nLahn Jaly :
+\n1. Mengganti ه dengan ح sehingga menjadi ٱحْدِنَا
+\n2. Mengganti د dengan ت sehingga menjadi ٱهْتِنَا
+\n3. Mengganti harokat hamzah yang kasroh menjadi fathah : ahdina / أَهْدِنَا
+\n4. Memanjangkan huruf yang memang tidak panjang. Contoh : ihdiina / ٱهْدِيْنَا
+\n\nLahn Khofy:
+\n1. Mengimâlahkan hamzah : Ehdina
+\n2. Mengganti kasroh hamzah dengan fathah : Ahdina
+\n3. Mengqolqolahkan ha\' : Ihedina
+\n4. Mengimâlahkan dal : Ihdena
+\n5. Memanjangkan ya\': Ihdiina
+\n6. Menebalkan nun : Ihdino
+\n7. Menghilangkan sifat hurufnya. Diantaranya huruf هْ dihilangkan sifat rokhowahnya
+</string>
+    <string name="content_menu_shiroto_title">ٱلصِّرَٰطَ</string>
+    <string name="content_menu_shiroto_desc">Beberapa kekeliruan dalam mengucap ٱلصِّرَٰطَ
+\nLahn Jaly:
+\n1. Menghilangkan tasydid sho. Sehingga menjadi : ihdina / shirotho صِرَٰطَ ٱهْدِنَا
+\n2. Mengganti ط menjadi ت. Sehingga menjadi : ٱلصِّرَٰتَ
+\n3. Memanjangkan huruf shod, sehingga menjadi : ashiirootho ٱلصِّيْرَٰطَ
+\n4. Menghilangka mad pada ro, sehingga menjadi ashiroto : ٱلصِّرَطَ
+\n5. Mengganti huruf-huruf tersebut. Diantaranya ط diganti ت : sehingga ٱلصِّرَٰتَ
+\n6. Memanjangkan huruf tho, sehingga menjadi shiroothooo / ٱلصِّرَٰطَا
+\n\nLahn Khofy :
+\n1. Mengganti shod dengan sin : Assirootho /  ٱلسِرَٰطَ
+\n   Memang ada yang membaca menjadi sin, yaitu qiro\'ah ibnu Katsir &amp; Qiro\'ah Hamzah
+\n2. Mengimâlahkan shod : Ashsherootho
+\n3. Memanjangkan ro\' lebih dari 2 harakat : Ashshiroootho
+\n4. Membaca ro\' dengan mulut membuka sehingga menjadi Ra : Ashshiraatho
+\n5. Tidak menebalkan tho\'
+\n6. Memanjangkan tho\' : Ashshiroothoo
+\n7. Melupakan sifat isti\'la &amp; ithbaq pada shod
+</string>
+    <string name="content_menu_mustaqim_title">ٱلْمُسْتَقِيمَ</string>
+    <string name="content_menu_mustaqim_desc">Beberapa kekeliruan dalam mengucap ٱلْمُسْتَقِيمَ
+\nLahn Khofy:
+\n1. Mengganti sin dengan shod : Almushtaqiim / ٱلْمُصْتَقِيمَ
+\n2. Mengganti sin dengan saya : Almusytaqim / ٱلْمُشْتَقِيمَ
+\n3. Memanjangkan ta\' : Almustaaqiim / ٱلْمُسْتَقِيمَ
+\n4. Mengganti ت dengan ط : Almusthoqiim / ٱلْمُسْطَقِيمَ
+\n5. Mengganti ق dengan ك : Almustakiim / ٱلْمُسْتَكِيمَ
+\n6. Mengganti م menjadi ن : Almustaqin / ٱلْمُسْتَقِينَ
+\n\nLahn Khofy :
+\n1. Mengqolqolahkan lam : Alemustaqiim
+\n2. Menebalkan lam : olmustaqiim
+\n3. Membaca mim dhommah dengan o : Almostaqim
+\n4. Menghilangkan shifat rokhowah dan shofir sin
+\n5. Berlebihan dalam mengucap qof. Almutaqiem
+\n6. Mengimâlahkan qof : Almustaqeem
+</string>
+    <string name="content_menu_alladzina_title">ٱلَّذِينَ</string>
+    <string name="content_menu_alladzina_desc">Beberapa kekeliruan dalam mengucap ٱلَّذِينَ
+\nLahn Jaly :
+\n1. Menghilangkan tasydid : Shirootholadziina / صِرَٰطَ ٱلَّذِينَ
+\n2. Menggantikan huruf. Seperti mengganti ذ dengan ج atau ز atau د
+\n3. Memanjangkan huruf nun. Menjadi ٱلَّذِينَا
+\n\nLahn Khofy :
+\n1. Memanjangkan dzal lebih dari 2 harakat : Alladziiina
+\n2. Menebalkan lam, menjadi olladzina
+\n3. Membaca dzal kurang dari 2 harakat
+\n4. Mengimâlahkan dzal : Alladzeena
+</string>
+    <string name="content_menu_anamta_title">أَنْعَمْتَ</string>
+    <string name="content_menu_anamta_desc">Beberapa kekeliruan dalam mengucap أَنْعَمْتَ
+\nLahn Jaly :
+\n1. Mengganti nun dengan mim : Am\'amta / أَمْعَمْتَ
+\n2. Mengganti \'ain dengan hamzah : Anamta / أَنْأَمْتَ
+\n3. Mengganti harokat ta pada an\'amta menjadi ti atau tu.
+\n\nLahn Khofy :
+\n1. Menebalkan hamzah :On\'amta
+\n2. Mengqolqolahkan nun : Ane\'amta
+\n3. Membaca ain dengan ng : Anngamta
+\n4. Menebalkan \'ain : An\'omta
+\n5. Menggolqolahkan mim : An\'ameta
+
+</string>
+    <string name="content_menu_alayhim_title">عَلَيْهِمْ</string>
+    <string name="content_menu_alayhim_desc">Beberapa kekeliruan dalam mengucap عَلَيْهِمْ
+\nLahn jaly :
+\n1.	Mengganti ع menjadi أ yaitu : أَلَيْهِمْ
+\n\nLahn Khofy :
+\n1. Menebalkan ain, menjadi \'olaihim
+\n2. Menebalkan lam : \'Aloihim
+\n3. Menebalkan \'ain dan lam : \'Oloihim
+\n4. Mengimâlahkan lam : Alachim (K)
+\n5. Berlebihan dalam pengucapan ha yaitu digentak.
+\n6. Menggentak pada huruf lam dan ya mat, sehingga tidak lagi lembut ( layyin )
+\n7. Mengimâlahkan ha\': \'Alaihem
+\n8. Mengimâlahkan lam dan ha\' : \'Alaehem (K)
+\n9. Mengqolqolahkan mim : \'Alaihime
+\n10. Menambah setelah mim wawu : \'Alaihimu . Ini bukan qiroah hafs, tapi qirâ\`ah ibnu Katsir dan riwâyat Qolun
+</string>
+    <string name="content_menu_ghairi_title">غَيْرِ</string>
+    <string name="content_menu_ghairi_desc">Beberapa kekeliruan dalam mengucap غَيْرِ
+\nLahn jaly :
+\n1.Mengganti غ menjadi خ menjadi غَيْرِ (sebaik-baiknya orang dilaknat)
+\nLahn khofy :
+\n1. Ada penekanan saat mengatakan ghoy sehingga hilang sifat layyinnya
+\n2. Memanjangkan ya\' : Ghoiiri
+</string>
+    <string name="content_menu_maghdhubi_title">ٱلْمَغْضُوبِ</string>
+    <string name="content_menu_maghdhubi_desc">Beberapa kekeliruan dalam mengucap ٱلْمَغْضُوبِ
+\nLahn Jaly :
+\n1. Mengganti gho dengan huruf yang lain, seperti qo atau yang lainnya. Menjadi ٱلْمَقْضُوبِ
+\n2. Mengganti huruf dho dengan dal, menjadi maghdubi / ٱلْمَغْدُوبِ
+\n3. Memendekkan dhod : Almaghdhubi / ٱلْمَغْضُبِ
+\nLahn Khofy :
+\n1. Mengqolqolahkan lam : Ghoirilemaghdhuubi
+\n2. Menebalkan mim : almoghdhuubi
+\n3. Mengqolqolahkan ghain : almaghedhuubi
+\n4. Membaca dhod dengan o : almaghdhoobi
+\n5. Memanjangkan dhod lebih dari 2 harakat : Almaghdhuuub
+\n6. Mengimâlahkan ba\' : Almaghdhuubei
+\n7. Menghilangkan sifat isti\'la dan ithbaq pada Dhod
+</string>
+    <string name="content_menu_dhalin_title">وَلَا ٱلضَّآلِّينَ</string>
+    <string name="content_menu_dhalin_desc">Beberapa kekeliruan dalam mengucap وَلَا ٱلضَّآلِّين
+\nLahn Jaly :
+\n1. Menghilangkan tasydid pada huruf Dhod, sehingga menjadi waladhollin / وَلَا ضَآلِّين
+\n2. Menghilangkan tasydid pada lam. Sehingga menjadi : waladdhoolin /   وَلَا ٱلضَّآلِّين
+\n3. Mengganti dhod menjadi dal. وَلَا ٱلدَّآلِّين
+\n4. Mengganti nun dengan min, menjadi : وَلَا ٱلضَّآلِّيم
+\n\nLahn Khofy :
+\n1. Menebalkan wawu : Woladhdhoooooolliin
+\n2. Menebalkan wawu dan lam pada ولا: Wolodhdhoooooolliin
+\n3. Memanjangkan lam pada ولا : Walaadhdhoooooolliin
+\n4. Membaca dhod kurang dari 6 harakat : ل Waladhdhoooolliin
+\n5. Membaca dhod lebih dari 6 harakat : Waladhdhoooooooolliin
+\n6. Mencuri nafas pada dhod -waladh (nafas) dhoooooolliiiiin
+\n7. Mengimâlahkan lam : Waladhdhoooooolleen
+\n8. Mengqolqolahkan nun : Waladhdhoooooolliine
+\n9. Membaca mad melebih porsinya: Waladhdhooooooolliiiiiiiiiin
+</string>
+    <string name="content_menu_aamiin_title">آمِيْن</string>
+    <string name="content_menu_aamiin_desc">آمِيْن</string>
+
+    <string name="content_menu_fikih_muqaddimah">Permasalahan ini adalah masalah yang wajib dipelajari oleh setiap orang muslim. Karena kewajiban seorang muslim adalah mengerjakam sholat. Sedangkan sholat tidak akan sah, selama alfatihah masih awut-awutan karena terdapat lahn jaly dan khafy. Dan jika terjadi kekeliruan (lahn) dalam membaca sûrah al-Fâtihah, maka ini sangat berpotensi membatalkan shalât. Sehingga seseorang harus perhatian akan hal ini. Walaupun memang, tidak semua kekeliruan membatalkan shalât.</string>
+    <string name="content_menu_fikih_lahnmembatalkan_title">Lahn yang membatalkan Sholat</string>
+    <string name="content_menu_fikih_lahnmembatalkan_desc">Untuk mengetahui ini, mari kita simak perkataan dari Al-Imâm Asy-Syâfi\’î. Beliau mengatakan dalam al-Umm (1/215): “Orang yang keliru dalam sûrah al-Fâtihah dengan lahn yang menyebabkan perubahan makna, saya berpendapat bahwa shalâtnya tidak sah. Begitupula tidak sah orang yang shalât di belakangnya (menjadi makmum sedang bacaan dia lebih benar dan bagus). Adapun jika kekeliruannya (yang mengubah makna itu) pada selain al-Fâtihah), maka saya tidak menyukainya, namun saya tidak berpendapat bahwa ia mesti mengulangi shalâtnya. Karena kalaupun ia meninggalkan (tidak membaca) sûrah selain al-Fâtihah dan hanya membaca al-Fâtihah saja, saya berharap shalâtnya diterima. Apabila (dengan itu) shalâtnya sah, maka begitupula shalât makmum di belakangnya, insyâ Allâh. Jika kekeliruannya terjadi pada sûrah al-Fâtihah atau sûrah yang lainnya namun tidak sampai mengubah makna, maka shalâtnya sah. Namun saya membencinya menjadi imâm, bagaimanapun keadaannya.”
+\n\nDan lebih spesifik tentang hal ini, Al-Imâm An-Nawawi dalam Al-Majmu\' (3/ 392) mengatakan : " Wajib membaca sûrah al-Fâtihah di dalam shalât dengan menyempurnakan seluruh huruf dan tasydidnya yang berjumlah empat belas, dan diantaranya tiga tasydid pada basmalah. Apabila ada huruf yang tidak terbaca atau meringankan tasydîd (tanpa membaca tasydîd), atau mengganti salah satu huruf dengan huruf yang lain, padahal lisannya sehat, maka bacaannya tidak sah. Sebagaimana contoh : apabila ia mengganti huruf Dhad menjadi zho, maka dalam permasalahan keabsahan bacaan dan shalâtnya terdapat dua pendapat. Pendapat yang paling shahih adalah tidak sah.”
+\n\nSenada dengan hal ini, al-Imâm Ibn Qudâmah dalam al-Mughnî (I/348) mengatakan: “Wajib baginya untuk membaca sûrah al-Fâtihah secara tertib urutannya dan ditunaikan tasydîdnya, tanpa terjatuh pada kekeliruan yang dapat mengubah makna. Apabila ia meninggalkan urutannya atau tidak membaca tasydîdnya, atau terjatuh pada kekeliruan yang mengubah makna seperti mengkasrahkan huruf Kaf pada kata “iyyâka” (menjadi “iyyâki”) atau mendhammahkan huruf Ta pada kata “an\’amta” (menjadi “an\’amtu”), atau memfathahkan Alif Washl pada kata “ihdinâ” (menjadi “ahdinâ”), maka bacaannya tidak terhitung (tidak sah), kecuali apabila ia benar-benar dalam kondisi tidak mampu untuk membacanya dengan benar.”
+
+\n\nDari 3 perkataan ini, sudah nampak jelas. Ada 3 lahn jaly yang menyebabkan Al-Fâtihah rusak dan sholat seseorang tidak sah jika tidak peduli dengannya. Yaitu :
+\n1. Tasydid tidak terbaca semua, yaitu kurang dari 14 tasydid dalam AlFatihah. Semacam iyyâ tidak dibaca tasydidinya menjadi ا َ إي dan tasydid lainnya
+\n2. Mengganti huruf. Semacam ح diganti هـ , atau غ diganti خ, atau ضُ diganti دُ
+\n3. Merubah harokat yang merubah arti. Yaitu huruf Ta تَ : pada أَنْعَمْتَ. Saat diganti dengan tu atau ti. Sehingga : أَنْعَمْتِ (kamu perempuan telah berikan nikmat) , أَنْعَمْتُ (aku telah beri nikmat) dan juga إِيَّاكَ
+ Tidak boleh menjadi merubah إِيَّاكِ (Kepada kamu Perempuan )
+</string>
+    <string name="content_menu_fikih_lahntidakmerusak_title">Lahn Jaly yang tidak merusak sholat</string>
+    <string name="content_menu_fikih_lahntidakmerusak_desc">Ternyata ada lahn jaly yang tidak membuat sholat kita tidak sah, hanya dihukumi makruh saja. Yaitu apa yang disampaikan oleh Al-Imâm An-Nawawi rohimahullohu ta\'ala dalam al-majmu\' (3/ 393): “Jika ia melakukan kekeliruan dalam sûrah al-Fâtihah dengan lahn yang mengubah makna, seperti mendhammahkan huruf Ta pada kata “an\’amta” (menjadi an’amtu) atau mengkasrahkannya (menjadi “an\’amti”), atau mengkasrahkan huruf Kaf pada kata “iyyâka na’budu” (menjadi “iyyâki”), atau ia membacanya menjadi “iyyâ\`a” dengan dua huruf Hamzah, maka bacaan dan shalâtnya tidak sah, bila dilakukan dengan sengaja. Adapun apabila kekeliruannya tidak mengubah makna, seperti memfathahkan huruf Dal pada kata “na\’budu” (menjadi “na\’buda”) atau huruf Nun pada kata “nasta\’înu” (menjadi nasta\’îna) atau huruf Shad pada kata “shirâtha” (menjadi “sharâtha”) atau hal-hal yang semisalnya, maka shalât dan bacaannya tidak batal, namun makruh melakukannya dan haram hukumnya apabila dilakukan dengan sengaja. Apabila ia melakukan semua itu dengan sengaja, maka shalât dan bacaannya tidak batal. Inilah pendapat yang shahih.” Sehingga lahn jaly yang tidak membatalkan sholat dan hanya dihukumi makruh adalah :
+\n1. Kesalahan baca dalam hal i\'rob ( yaitu harokat akhir dari sebuah kalimat ) yang tidak sampai merubah makna. Sebagaimana yang disebutkan oleh Al-Imâm di atas.
+\n2. Hal tersebut dilakukan tidak sengaja.
+</string>
+    <string name="content_menu_fikih_lahnshalatsendiri_title">Hukum Shalat Sendirian dengan Lahn</string>
+    <string name="content_menu_fikih_lahnshalatsendiri_desc">Wajib bagi seorang muslim untuk terus belajar membaca surat Al-Fâtihah dengan baik dan benar. Karena surat ini dibaca dalam sholat sebagai rukun yang tidak boleh dispelekan. Lantas jika seorang muslim sudah berjuang belajar namun Qodarulloh masih ada lahn jaly yang dibaca saat membaca Al-Fâtihah karena keterbatasan. Maka disini diperinci:
+\n▪ jika ia tidak mampu, semacam sudah sepuh. Atau seseorang yang memiliki gangguan dalam lisannya. Maka sholatnya ketika sendiri sah
+\n▪ jika dia terus belajar, dan belum juga bisa. Maka sholatnya saat sendiri juga Sah.
+\n▪ jika dia tidak pernah belajar, maka sholatnya sendirian sah. Akan tetapi al-Imâm An-Nawawi mensyaratkanuntuk mengqodho sholat-sholat tersebut saat dia sudah mulai belajar Beliau mengatakan :
+\n“apabila ia dalam keadaan yang tidak memungkinkan lagi untuk belajar (atau sudah belajar namun tetap tidak berubah), maka shalâtnya sah (bagi dirinya sendiri) Namun apabila ia tidak belajar dan ia memiliki kemungkinan untuk mempelajari dan memperbaikinya, maka wajib baginya belajar, serta wajib pula baginya mengganti seluruh shalât yang telah dilaksanakannya saat ia meninggalkan kewajiban belajar (Al-Majmu 3/360-36 ) Namun syaikhul islam ibnu taimiyah lebih menguatkan pendapat. Bahwa ketika seseorang meninggalkan kewajibannya karena kejahilannya, maka tidak perlu mengqodho (lihat majmu\' fatawa 22/102, majma malik alfahd)
+</string>
+    <string name="content_menu_fikih_Lahnberimamdenganlahn_title">Hukum Makmum dan Imam melakukan LAHN</string>
+    <string name="content_menu_fikih_Lahnberimamdenganlahn_desc">Hukum seorang makmum yang belum bisa membaca alfatihah dengan benar berImâm pada Imâm yang melakukan Lahn dalam bacaan Al-Fâtihah, dalam masalah ke makmuman dan keImâman ini, seorang muslim terbagi menjadi dua dalam, yaitu :
+\n\n1.Qôri\'
+\nQôri\' adalah seorang yang bisa membaca Al-Fâtihah baik secara teori maupun praktek dengan baik dan benar dan terhindar dari Lahn Jaly dalam Al-Fâtihah nya.
+\n\n2. Ummy
+\nUmmy adalah seorang yang belum baik bacaannya. Masih banyak lahn dalam bacaan Al-Fâtihah nya. Al-Imâm Ibnu Qudamah mengatakan: “Ummi adalah seseorang yang belum baik dalam membaca Al-Fâtihah nya atau sebagiannya. Atau merubah salah satu huruf darinya (Almughny 3/29) Ketika makmum adalah seorang ummy dan Imâm pun seorang ummy, maka sholat mereka sah. Diperbolehkan ummy mengImâmi orang yang semisal dengannya atau lebih rendah. Disampaikan pula oleh Ibnu qudamah: "Dan diperbolehkan makmum yang ummy yang semisal dengan Imâm kemampuannua untuk bermakmum padanya" (Al-Mughny 3/29)
+</string>
+    <string name="content_menu_fikih_qoriberimamdenganummy_title">Hukum Qôri\' berimam pada Imam Ummy</string>
+    <string name="content_menu_fikih_qoriberimamdenganummy_desc">Saat seseorang yang sudah baik membaca Al-Fâtihah nya yang sudah terhindar dari lahn jaly. Kemudian dia bermakmum pada Imâm yang ummy. Maka disi ada perincian, yaitu :
+\n1. Jika Imâm melakukan Lahn Jaly namun tidak merubah makna. Semacam : alhamdu menjadi alhamda. Maka sholat makmum yang qóri ini sah. Meskipun makruh. Ibnu qudamah mengatakan : “Dimakruhkan bermakmum kepada Imâm yang membaca dengan lahn yang tidak mengubah makna. Ini ditegaskan oleh Imâm Ahmad. Dan sah shalatnya bagi makmum yang tidak membaca dengan lahn, karena mereka telah menunaikan kewajiban membaca Al Fatihah. Jika lahn sampai mengubah makna namun terjadi pada selain bacaan Al Fatihah, maka tidak mempengaruhi keabsahan shalat dan juga tidak membatalkan keImâman, kecuali jika Imâm bersengaja melakukannya. Maka ketika itu batal shalat mereka semua” (Al Mughni, 3/29-32)
+\n2. Jika Imâm melakukan lahn jaly yang merubah makna. Maka jelaslah bahwa sholat makmum yang qóri\' ini tidak sah. Syekh Ibnu Hajar al-haitami mengatakan : “Tidak diperbolehkan bagi seseorang untuk berjamaah dengan Imâm yang tidak baik bacaan Al-Qur\’ânnya. Yang dimaksud dengan “Tidak baik bacaan Al-Qur\’ânnya” dalam pembahasan ini adalah sekiranya ia mengganti suatu huruf dengan huruf yang lain, atau ia membaca lahn (keliru) yang mengubah terhadap makna kata. Adapun selain ketentuan di atas, maka tetap tidak mencegah terhadap wajibnya (berjamaah shalat jum\’at)” ( al-Fatawa al-Fiqhiyyâh al-Kubra, 1/152) Jika di sebuah sholat berjamaah yang diImâmi ummy, jamahnya semua ummy, kecuali satu orang Qŏri\’, maka makmum yang Qŏri\’ ini mau tidak mau ia harus melakukan mufaroqoh ( berniat sholat sendiri ), atau keluar dari jamaah sholat dan sholat sendiri atau berjamaah di tempat yang lain.
+\n3. Jika Imâm ummy yang lahn ini menjadi Imâm bagi makmum yang Qŏri\’ di sholat sirriyyâh. Tetap dihukumi sholatnya Qŏri\’ ini tidak sah. Al-Imâm An-Nawawi mengatakan : ketika ada seorang Qŏri\’ yang menjadi makmum seseorang yang dianggap Qŏri\’ juga, Namun ternyata seiring berjalannya sholat diketahui Imâm ini adalah ummy, maka pendapat kami ( ulama syafi\'iyyâh ) adalah : tidak sah salatnya Qŏri\’ di belakang Imâm yang ummy. Adapun masalah pengulangan shalatnya ada dua pendapat. Dan pendapat yang kuat adalah wajib mengulang shalatnya. ini adalah pendapatnya Al Imâm al-baghowy dan yang lainnya dan ini adalah pendapat jumhur para ulama. baik itu sholat Sirriyah maupun jahriyyâh ( Al-Majmu\' 4/167 ).
+</string>
+    <string name="content_menu_fikih_sikapmakmum_title">Sikap seorang makmum</string>
+    <string name="content_menu_fikih_sikapmakmum_desc">Meski sudah kami jelaskan tentang pentingnya menjaga bacaan Al-Fâtihah dalam sholat agar terus benar. Dan kamipun sudah menjelaskan tentang ketidak absahan makmum Qŏri\’ jika diImâmi ummy yang melakukan lahn dalam Al-Fâtihah . Bukan berarti disikapi dengan kaku, sehingga memboikot dan tidak menghasilkan Solusi. Maka sikap seorang makmum adalah :
+\n1. Ukur dirinya sendiri dulu, apakah dia Qŏri\’ ataukah sama-sama ummy seperti Imâm bahkan mungkin lebih parah. Karena banyak orang yang menganggap dirinya Qŏri\’, karena mengetahui teori lahn. Tapi nyatanya dia tidak mampu membaca Al-Fâtihah dengan terhindar lahn. Jika seperti ini, maka orang ini dianggap ummy juga, yang sholatnya sah dibelakang Imâm ummy.
+\n2. Ketika kita Qŏri’\’. Maka jangan mencari kesalahan bacaan Imâm. Cukup mengalir saja didengar, jika memang lahn jaly nampak. Maka barulah hukum-hukum diatas dilaksanakan.
+\n3. Jika terdapat Imâm melakukan lahn jaly, maka diskusilah dengan Imâm secara santun. Berikan motifasi untuk sama-sama belajar. Agar menghasilkan hasil yang solutif untuk semua.
+\n4. Jangan menjadi hakim yang tugasnya menghukumi, tapi jadilah da\'i yang mengajak pada kebenaran dan kesabaran.
+</string>
+    <string name="content_menu_fikih_sikapimam_title">Sikap seorang imam</string>
+    <string name="content_menu_fikih_sikapimam_desc">Adapun sikap seorang Imâm adalah harus bijaksana, yaitu diantaranya adalah:
+\n1. Jangan terpedaya dengan banyaknya jasa pada masjid, atau usia yang lebih tua ketimbang yang lain. Sehingga membuatnya satu-satunya yang berhak menjadi Imâm. Tanpa ada evaluasi diri, apakah memang berhak atau tidak.
+\n2. Belajar kembali dan murojaah bacaan Al-Fâtihah kita kepada seseorang yang dianggap a\'lim dalam qiroah. Karena kita tidak akan sadari, bahwa kita salah. Kecuali kita dapati kebenaran karena mempelajarinya.
+\n3. Baiknya seseorang mengukur dirinya. Jika dia layak jadi Imâm, walhamdulillah ini adalah amanah. Namun jika memang dia belum layak jadi Imâm, maka berikanlah mandat pada yang lebih ahli darinya.
+\n4. Bersifatlah legowo ketika ada seseorang yang memberinya nasehat, karena nasehat sangat berarti untuk perbaikan ke depan kelak.
+</string>
+
+</resources>
