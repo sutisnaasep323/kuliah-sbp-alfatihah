@@ -40,6 +40,8 @@ class QuranFragment : Fragment() {
             // Konfigurasi tampilan UI
             setupUI()
 
+            setupSearchTafsir()
+
             // Observasi perubahan data
             setupObservers()
         } else {
@@ -57,6 +59,19 @@ class QuranFragment : Fragment() {
 
     private fun setupUI() {
         binding.rvSurah.layoutManager = LinearLayoutManager(requireContext())
+    }
+
+    private fun setupSearchTafsir() {
+        binding.searchButton.setOnClickListener {
+            val query = binding.searchView.query.toString()
+            if (query.isNotEmpty()) {
+                // Navigate to SearchTafsirFragment with query
+                val action = QuranFragmentDirections.actionNavigationQuranToSearchTafsirFragment(query)
+                findNavController().navigate(action)
+            } else {
+                Toast.makeText(requireContext(), "Masukkan kata kunci pencarian", Toast.LENGTH_SHORT).show()
+            }
+        }
     }
 
     private fun setupObservers() {

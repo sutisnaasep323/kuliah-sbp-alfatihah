@@ -35,6 +35,9 @@
         <action
             android:id="@+id/action_navigation_quran_to_detailQuranFragment"
             app:destination="@id/detailQuranFragment" />
+        <action
+            android:id="@+id/action_navigation_quran_to_searchTafsirFragment"
+            app:destination="@id/searchTafsirFragment" />
     </fragment>
 
     <fragment
@@ -127,5 +130,15 @@
         <argument
             android:name="contentDesc"
             app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchTafsirFragment"
+        android:name="com.abuhammad.alfatihah.ui.quran.SearchTafsirFragment"
+        android:label="fragment_search_tafsir"
+        tools:layout="@layout/fragment_search_tafsir">
+        <argument
+            android:name="EXTRA_NAME_SEARCH"
+            app:argType="string" />
+
     </fragment>
 </navigation>
